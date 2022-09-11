@@ -2,6 +2,8 @@
 
 # References
 
+Journal & Code Reference
+
     @article{Strodthoff:2020Deep,
     doi = {10.1109/jbhi.2020.3022989},
     url = {https://doi.org/10.1109/jbhi.2020.3022989},
@@ -15,7 +17,7 @@
     journal = {{IEEE} Journal of Biomedical and Health Informatics}
     }
 	
-For the PTB-XL dataset, please cite
+PTB-XL Dataset Reference:
 
     @article{Wagner:2020PTBXL,
     doi = {10.1038/s41597-020-0495-6},
